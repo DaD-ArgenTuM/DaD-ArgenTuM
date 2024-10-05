@@ -38,4 +38,4 @@ I'm a developer with a keen interest in creating interactive applications and im
 Feel free to star or fork my projects! 😊
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TickleFuse09&show_icons=true&locale=en" alt="ticklefuse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaD-ArgenTuM&show_icons=true&locale=en" alt="DaD-ArgenTuM" /></p>
