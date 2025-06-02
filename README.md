@@ -30,7 +30,7 @@ I'm a developer with a keen interest in creating interactive applications and im
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:**
+- **LinkedIn:** https://www.linkedin.com/in/gaurav-girkar-08b8b1330/
 - **GitHub:** 
 
 ---
